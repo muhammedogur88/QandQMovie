@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QandQ", "QandQ\QandQ.csproj", "{04F2525A-8905-41CC-B5FC-C3D2314D23FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieWorkerService", "MovieWorkerService\MovieWorkerService.csproj", "{566DA1FF-7542-4746-90E3-451DFDCAC4B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04F2525A-8905-41CC-B5FC-C3D2314D23FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F2525A-8905-41CC-B5FC-C3D2314D23FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F2525A-8905-41CC-B5FC-C3D2314D23FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F2525A-8905-41CC-B5FC-C3D2314D23FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566DA1FF-7542-4746-90E3-451DFDCAC4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566DA1FF-7542-4746-90E3-451DFDCAC4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566DA1FF-7542-4746-90E3-451DFDCAC4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566DA1FF-7542-4746-90E3-451DFDCAC4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9CBD44F-10A5-4A5D-B5C8-FEFFBBF009C1}
+	EndGlobalSection
+EndGlobal
